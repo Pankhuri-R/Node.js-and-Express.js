@@ -1,5 +1,5 @@
 // Asynchronous approach
-// Blocking
+// Non- Blocking
 
 const { readFile, writeFile } = require('fs')
 
